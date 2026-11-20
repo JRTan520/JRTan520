@@ -41,33 +41,19 @@ me = {
 
 
 <table>
-
-  <tr>
-
-    <td width="50%" valign="top">
-
-      <h3>📊 Capacity Planning Model</h3>
-
-      <sub><b>learning project · synthetic data</b></sub>
-
-      <p>Demand vs capacity model for weekly resource planning, built on hypothetical data.</p>
-
-      <p><code>Python</code> <code>Excel</code></p>
-
-    </td>
-
-    <td width="50%" valign="top">
-
-      <h3>📂 <a href="https://github.com/JRTan520?tab=repositories">More Work</a></h3>
-
-      <sub><b>everything else</b></sub>
-
-      <p>More projects live here.</p>
-
-    </td>
-
-  </tr>
-
+<tr>
+<td width="50%" valign="top">
+<h3>📊 Capacity Planning Model</h3>
+<sub><b>learning project · synthetic data</b></sub>
+<p>Demand vs capacity model for weekly resource planning, built on hypothetical data.</p>
+<p><code>Python</code> <code>Excel</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>📂 <a href="https://github.com/JRTan520?tab=repositories">More Work</a></h3>
+<sub><b>everything else</b></sub>
+<p>More projects live here.</p>
+</td>
+</tr>
 </table>
 
 
