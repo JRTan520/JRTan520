@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Didact+Gothic&size=30&duration=2000&pause=1600&color=FFCD18&background=061722&center=true&vCenter=true&width=854&height=64&lines=%3E+More+output.+Lower+cost+per+unit.;%3E+Capacity%2C+Cost+%26+Delivery.;%3E+Learning+AI+agents+%26+Python." width="100%" alt="More output. Lower cost per unit. Capacity, Cost and Delivery. Learning AI agents and Python." />
 </p>
 
-<p align="center"><b>Production, Planning & Supply Chain Leader</b><br /><sub>Semiconductor · Metal Fabrication · Glove &nbsp;|&nbsp; Capacity, Cost & Delivery &nbsp;|&nbsp; SAP · ERP · Kinaxis · Power BI</sub></p>
+<p align="center"><b>Production, Planning & Supply Chain Leader</b><br /><sub>Semiconductor, Metal Fabrication, Glove &nbsp;|&nbsp; Capacity, Cost & Delivery &nbsp;|&nbsp; SAP, ERP, Kinaxis, Power BI</sub></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jr-tan-357500144"><img src="https://img.shields.io/badge/LinkedIn-FFCD18?style=for-the-badge&labelColor=061722" alt="LinkedIn" /></a>
@@ -46,9 +46,10 @@ me = {
 <img src="assets/h-stack.svg" height="40" alt="Stack" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,git,github,vscode,notion&perline=14&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,git,github,vscode,notion&perline=14&theme=dark" height="48" alt="Python, Git, GitHub, VS Code, Notion" />
+  <img src="assets/i-sap.svg" height="48" alt="SAP" />
+  <img src="assets/i-erp.svg" height="48" alt="ERP monitor" />
+  <img src="assets/i-kinaxis.svg" height="48" alt="Kinaxis" />
 </p>
-
-<p align="center"><sub>Day to day: SAP · Kinaxis Rapid Response · Excel · Power Query / Power BI · AutoCAD</sub></p>
 
 <p align="center"><img src="assets/footer.svg" width="100%" alt="Plan well. Deliver on time." /></p>
