@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061722"/>
+      <stop offset="1" stop-color="#0E3446"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="240" rx="24" fill="url(#g)"/>
+  <text x="500" y="128" text-anchor="middle" font-family="'Century Gothic', CenturyGothic, AppleGothic, 'URW Gothic', 'URW Gothic L', Arial, sans-serif" font-size="84" font-weight="700" fill="#F5F5EE">JR<tspan fill="#FFCD18">Tan</tspan></text>
+  <rect x="440" y="150" width="120" height="3" fill="#FFCD18"/>
+  <text x="500" y="192" text-anchor="middle" font-family="'Century Gothic', CenturyGothic, AppleGothic, 'URW Gothic', 'URW Gothic L', Arial, sans-serif" font-size="26" fill="#B9CBD3">Production, Planning, Supply Chain Leader</text>
+</svg>
