@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Didact+Gothic&weight=700&size=30&duration=2000&pause=1600&color=FFCD18&background=061722&center=true&vCenter=true&width=854&height=64&lines=%3E+More+output.+Lower+cost+per+unit.;%3E+Capacity%2C+Cost+%26+Delivery.;%3E+Learning+AI+agents+%26+Python." width="100%" alt="More output. Lower cost per unit. Capacity, Cost and Delivery. Learning AI agents and Python." />
+  <img src="https://readme-typing-svg.demolab.com?font=Didact+Gothic&size=30&duration=2000&pause=1600&color=FFCD18&background=061722&center=true&vCenter=true&width=854&height=64&lines=%3E+More+output.+Lower+cost+per+unit.;%3E+Capacity%2C+Cost+%26+Delivery.;%3E+Learning+AI+agents+%26+Python." width="100%" alt="More output. Lower cost per unit. Capacity, Cost and Delivery. Learning AI agents and Python." />
 </p>
 
 <p align="center"><b>Production, Planning & Supply Chain Leader</b><br /><sub>Semiconductor · Metal Fabrication · Glove &nbsp;|&nbsp; Capacity, Cost & Delivery &nbsp;|&nbsp; SAP · ERP · Kinaxis · Power BI</sub></p>
