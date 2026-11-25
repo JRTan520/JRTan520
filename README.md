@@ -14,11 +14,11 @@
 
 <img src="assets/h-about.svg" height="40" alt="About Me" />
 
-I am a manufacturing, planning and supply chain professional with cross-industry experience in semiconductor and electronics manufacturing, metal fabrication and healthcare manufacturing.
+Manufacturing, Planning & Supply Chain professional with cross-industry experience in semiconductor and electronics, metal fabrication, and healthcare manufacturing.
 
-My specialisations include resource and capacity planning, production management, supply chain optimisation, operational excellence and industrial automation. I combine operational expertise, commercial awareness and data-driven decision-making to improve productivity, optimise resources, control manufacturing costs and strengthen delivery performance.
+Specialising in resource and capacity planning, production management, supply chain optimisation and industrial automation. My approach focuses on balancing capacity, cost, quality and delivery through practical, data-driven decisions.
 
-I am currently developing my capabilities in advanced analytics, AI-enabled manufacturing and digital transformation, with a focus on practical industrial applications.
+I continuously explore how analytics, AI and automation can solve real manufacturing challenges, improve operational performance and support better business decisions.
 
 ### Areas of Specialisation
 
