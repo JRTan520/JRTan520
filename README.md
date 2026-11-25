@@ -13,6 +13,10 @@
   <a href="https://junior-tan-career-portfolio.lushfrond1.chatgpt.site/"><img src="https://img.shields.io/badge/Career_Portfolio-FFCD18?style=for-the-badge&amp;labelColor=061722" alt="Career Portfolio" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JRTan520&amp;label=Profile+views&amp;color=FFCD18&amp;style=flat-square" alt="Profile views" />
+</p>
+
 <img src="assets/h-about.svg" height="40" alt="About Me" />
 
 Manufacturing, Planning & Supply Chain professional with cross-industry experience in semiconductor and electronics, metal fabrication, and healthcare manufacturing.
